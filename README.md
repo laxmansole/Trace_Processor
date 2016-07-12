@@ -1,3 +1,3 @@
 # Trace_Processor
-This repo contains project specs and final paper which summerises the project. 
+This repo contains project specs and final paper which summarises the project. 
 For code and implementation details contact authors.
